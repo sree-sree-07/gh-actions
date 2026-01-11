@@ -1,5 +1,5 @@
 name: 03-Workflow-Runners
-on: push
+on: release
 jobs:
     ubuntu-echo:
         runs-on: ubuntu-latest
